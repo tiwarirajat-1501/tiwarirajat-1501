@@ -184,33 +184,50 @@ Python • Machine Learning
 
 ## > GITHUB_ANALYTICS
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="Rajat's GitHub Stats"
-    height="170"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=tiwarirajat-1501&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+  alt="Rajat's GitHub Stats"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarirajat-1501&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## > CONTRIBUTION_ACTIVITY
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarirajat-1501&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true"
+  alt="GitHub Contribution Activity"
+/>
+
+</div>
 
 ---
 
-## > CONTRIBUTION_ACTIVITY 🐍
+## > CONTRIBUTION_SNAKE 🐍
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarirajat-1501&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
 
 ---
+
 ## > CURRENT_MISSION
 
 <pre>
