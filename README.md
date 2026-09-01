@@ -186,36 +186,13 @@ Python • Machine Learning
 
 <div align="center">
 
-<a href="https://github.com/tiwarirajat-1501">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=1800"
-    alt="Rajat's GitHub Stats"
-  />
-</a>
-
-<br><br>
-
 <img
-  src="https://streak-stats.demolab.com/?user=tiwarirajat-1501&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+  src="https://streak-stats.demolab.com/?user=tiwarirajat-1501&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
   alt="GitHub Contribution Streak"
 />
 
 </div>
 
----
-
-## > CONTRIBUTION_ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/tiwarirajat-1501">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarirajat-1501&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</a>
-
-</div>
 ---
 
 ## > CONTRIBUTION_SNAKE 🐍
