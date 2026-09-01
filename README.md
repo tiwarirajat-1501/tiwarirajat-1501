@@ -182,39 +182,13 @@ Python • Machine Learning
 
 ---
 
----
-
 ## > GITHUB_ANALYTICS
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=tiwarirajat-1501&theme=transparent&hide_border=false&border_radius=8&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=tiwarirajat-1501&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=8"
   alt="GitHub Contribution Streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarirajat-1501&layout=compact&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## > CONTRIBUTION_ACTIVITY 🐍
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=tiwarirajat-1501&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Activity"
-  alt="GitHub Contribution Activity"
 />
 
 </div>
@@ -226,20 +200,22 @@ Python • Machine Learning
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake.svg"
-  />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
-  />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
 </picture>
 
