@@ -1,28 +1,26 @@
-<!-- ========================================================= -->
-<!--                  RAJAT TIWARI • PROFILE                   -->
-<!-- ========================================================= -->
+<div align="center">
 
-<h1 align="center">Hello World 👋</h1>
+# Hello World 👋
 
-<h2 align="center">I'm Rajat Tiwari</h2>
+## I'm Rajat Tiwari
 
-<p align="center">
-  Data Science • Machine Learning • Python
-</p>
+### Data Science • Machine Learning • Python
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiwarirajat1501/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://tiwarirajat-1501.github.io/rajat-tiwari-portfolio/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/tiwarirajat-1501">GitHub</a>
-</p>
+<br>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/tiwarirajat-1501">GitHub</a>
+
+</div>
 
 ---
 
 # > ABOUT_ME
 
-<pre>
+```text
 $ whoami
 
 🎓 Computer Science student specializing in Artificial Intelligence & Machine Learning.
@@ -34,13 +32,13 @@ $ whoami
 📈 Exploring how data can be transformed into meaningful insights.
 
 🚀 Focused on learning consistently and building real-world projects.
-</pre>
+```
 
 ---
 
 # > CURRENT_FOCUS
 
-<pre>
+```text
 Python
 │
 ├── Data Analysis
@@ -53,7 +51,7 @@ Python
 └── Machine Learning
     │
     └── Real-World Projects 🚀
-</pre>
+```
 
 ---
 
@@ -61,111 +59,108 @@ Python
 
 ### Languages & Databases
 
-![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-181818?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-181818?style=flat-square&logo=mysql&logoColor=white)
 
 ### Data Science & Analytics
 
-![NumPy](https://img.shields.io/badge/NumPy-181818?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-181818?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-181818?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-181818?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-181818?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-181818?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-181818?style=flat-square&logo=python&logoColor=white)
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-181818?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-181818?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-181818?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # > FEATURED_PROJECTS
 
-## 👁 FACE DETECTION SYSTEM
+## 👁️ FACE DETECTION SYSTEM
 
-<pre>
+```text
 STATUS: COMPLETED ✓
 
 TECH STACK:
 Python • OpenCV • Computer Vision
 
 → Real-time face detection
-→ Image processing
-→ Computer Vision fundamentals
-</pre>
+→ Image processing techniques
+→ Computer vision fundamentals
+```
 
 ---
 
-## 🌦 WEATHER FORECAST APP
+## 🌦️ WEATHER FORECAST APP
 
-<pre>
+```text
 STATUS: COMPLETED ✓
 
 TECH STACK:
-Python • Weather APIs • Web Development
+Python • Weather API • Web Development
 
-→ Weather information
-→ Temperature details
-→ Humidity and wind data
-→ API integration
-</pre>
+→ Temperature information
+→ Humidity tracking
+→ Wind speed details
+→ Weather forecasting
+```
 
 ---
 
 ## 🧠 PYTHON QUIZ WEB APP
 
-<pre>
+```text
 STATUS: COMPLETED ✓
 
 TECH STACK:
-Python • Flask • JavaScript
+Python • Flask • Web Development
 
-→ Interactive quiz platform
-→ Multiple-choice questions
+→ Interactive quiz system
+→ Python programming questions
 → Score tracking
-→ Timed quiz experience
-</pre>
+→ User-friendly interface
+```
+
+---
+
+# > CONTRIBUTION_SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
 # > GITHUB_ANALYTICS
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&hide_border=true&bg_color=00000000"
-    height="170"
-    alt="GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarirajat-1501&layout=compact&hide_border=true&bg_color=00000000"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF"
+height="165"
+/>
 
----
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarirajat-1501&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+height="165"
+/>
 
-# > CONTRIBUTION_ACTIVITY 🐍
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake eating GitHub contributions"
-  />
-</p>
-
-<p align="center">
-  🐍 Snake eating my GitHub contribution graph
-</p>
+</div>
 
 ---
 
 # > CURRENT_MISSION
 
-<pre>
+```text
 [✓] Strengthen Python Fundamentals
 
 [✓] Learn Data Analysis
@@ -177,28 +172,48 @@ Python • Flask • JavaScript
 [ ] Build Strong Portfolio Projects
 
 [ ] Contribute to Open Source
-</pre>
+```
+
+---
+
+# > WHAT_I_AM_WORKING_ON
+
+```text
+→ Improving Python and Data Science fundamentals
+
+→ Exploring Machine Learning algorithms
+
+→ Building real-world projects
+
+→ Developing a stronger Data Science portfolio
+
+→ Learning consistently and improving every day
+```
 
 ---
 
 # > CONNECT_WITH_ME
 
-<p align="center">
-  🌐 <a href="https://tiwarirajat-1501.github.io/rajat-tiwari-portfolio/">Portfolio</a>
-  &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/tiwarirajat1501/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  💻 <a href="https://github.com/tiwarirajat-1501">GitHub</a>
-</p>
+<div align="center">
+
+🌐 <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💻 <a href="https://github.com/tiwarirajat-1501">GitHub</a>
+
+</div>
 
 ---
 
-<pre>
+<div align="center">
+
+```text
 > STATUS: KEEPING UP WITH THE JOURNEY 🚀
 
 "Learn consistently. Build projects. Keep improving."
-</pre>
+```
 
-<p align="center">
-  ⭐ From Rajat Tiwari
-</p>
+⭐ From Rajat Tiwari
+
+</div>
