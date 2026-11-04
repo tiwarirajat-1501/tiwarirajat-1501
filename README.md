@@ -182,7 +182,7 @@ Python • Machine Learning
 
 ---
 
-### 📊 GitHub Stats
+## >  GitHub Stats
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=tiwarirajat-1501&show_icons=true&theme=radium&hide_border=true" width="48%" />
@@ -228,7 +228,7 @@ Improving one step at a time.
 
 ---
 
-### 💡 Daily Tech Quote
+## >  Daily Tech Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote" />
 </div>
