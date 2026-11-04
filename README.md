@@ -185,8 +185,8 @@ Python • Machine Learning
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ShivangKaushal&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangKaushal&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tiwarirajat-1501&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarirajat-1501&theme=radium&hide_border=true" width="48%" />
 </div>
 
 <br>
