@@ -182,43 +182,17 @@ Python • Machine Learning
 
 ---
 
-## > GITHUB_ANALYTICS
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=tiwarirajat-1501&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=8"
-  alt="GitHub Contribution Streak"
-/>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=ShivangKaushal&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangKaushal&theme=radium&hide_border=true" width="48%" />
 </div>
 
----
-
-## > CONTRIBUTION_SNAKE 🐍
+<br>
 
 <div align="center">
-
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/tiwarirajat-1501/tiwarirajat-1501/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
-</picture>
-
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D Contributions" width="100%" />
 </div>
 
 ---
@@ -251,6 +225,13 @@ Building projects.
 Exploring Data Science & Machine Learning.
 Improving one step at a time.
 </pre>
+
+---
+
+### 💡 Daily Tech Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote" />
+</div>
 
 ---
 
