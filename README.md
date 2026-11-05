@@ -230,7 +230,7 @@ Improving one step at a time.
 
 ## >  Daily Tech Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote" />
+  <img src="./assets/daily-quote.svg" alt="Daily Quote" />
 </div>
 
 ---

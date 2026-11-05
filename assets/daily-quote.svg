@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 150" width="750" height="150">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141e28"/>
+      <stop offset="100%" stop-color="#0c1017"/>
+    </linearGradient>
+  </defs>
+  <rect width="750" height="150" rx="10" fill="url(#grad)" stroke="#2ea44f" stroke-width="1.5"/>
+  <text x="35" y="45" font-family="'Fira Code', monospace, sans-serif" font-size="28" fill="#56d364">“</text>
+  <text x="55" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-style="italic" fill="#e6edf3">
+    Code is like humor. When you have to explain it, it’s bad.
+  </text>
+  <text x="690" y="85" font-family="'Fira Code', monospace, sans-serif" font-size="28" fill="#56d364">”</text>
+  <text x="690" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#7ee787" text-anchor="end">
+    ― Cory House
+  </text>
+</svg>

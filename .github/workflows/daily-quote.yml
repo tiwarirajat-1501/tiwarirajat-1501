@@ -1,0 +1,39 @@
+name: Daily Tech Quote & Contribution
+
+on:
+  schedule:
+    # Runs everyday at 00:00 UTC (05:30 AM IST)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    name: update-daily-tech-quote
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Daily Quote
+        run: |
+          mkdir -p assets
+          # Fetch dynamic quote from API with fallback
+          if curl -f -s --max-time 15 "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" -o assets/daily-quote.svg.tmp && [ -s assets/daily-quote.svg.tmp ]; then
+            mv assets/daily-quote.svg.tmp assets/daily-quote.svg
+          else
+            echo "Failed to fetch new quote; keeping existing quote."
+          fi
+          # Always update date tracker so there is a daily commit for contribution graph
+          date -u +"%Y-%m-%d %H:%M:%S UTC" > assets/quote-date.txt
+
+      - name: Commit & Push Daily Contribution
+        run: |
+          git config user.name "Rajat Tiwari"
+          git config user.email "rajat.25bai10250@vitbhopal.ac.in"
+          git add assets/daily-quote.svg assets/quote-date.txt
+          git commit -m "chore: update daily tech quote [skip ci]" || echo "No changes to commit"
+          git push
