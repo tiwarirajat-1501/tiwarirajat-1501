@@ -185,7 +185,7 @@ Python • Machine Learning
 ## >  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwarirajat-1501&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tiwarirajat-1501&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=tiwarirajat-1501&theme=radium&hide_border=true&timezone=Asia/Kolkata" width="48%" />
 </div>
 
