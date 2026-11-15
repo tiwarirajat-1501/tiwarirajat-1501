@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.</h3>
-          <p>- Robert C. Martin</p>
+          <h3>Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.</h3>
+          <p>- John Warnock</p>
         </div>
       </div>
     </foreignObject>
